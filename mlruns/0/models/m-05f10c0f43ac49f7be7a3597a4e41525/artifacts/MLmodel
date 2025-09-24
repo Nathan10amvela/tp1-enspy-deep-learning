@@ -1,0 +1,20 @@
+artifact_path: file:///home/nathan-amvela-bengono/Documents/mon_prem_tp_dl/mlruns/0/models/m-05f10c0f43ac49f7be7a3597a4e41525/artifacts
+flavors:
+  keras:
+    data: data
+    keras_backend: tensorflow
+    keras_version: 3.10.0
+    save_exported_model: false
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.keras
+    python_version: 3.9.23
+mlflow_version: 3.1.4
+model_id: m-05f10c0f43ac49f7be7a3597a4e41525
+model_size_bytes: 4907680
+model_uuid: m-05f10c0f43ac49f7be7a3597a4e41525
+prompts: null
+run_id: 25c8f0d294c34badab933abd1b802cad
+utc_time_created: '2025-09-24 22:03:46.993600'
