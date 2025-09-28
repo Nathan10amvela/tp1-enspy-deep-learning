@@ -1,0 +1,14 @@
+artifact_uri: file:///home/nathan-amvela-bengono/Documents/mon_prem_tp_dl/mlruns/835805779633566865/f226727bb3854cca83a5e4f3ecbec44b/artifacts
+end_time: 1759097530801
+entry_point_name: ''
+experiment_id: '835805779633566865'
+lifecycle_stage: active
+run_id: f226727bb3854cca83a5e4f3ecbec44b
+run_name: Model_With_BatchNorm
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759097500071
+status: 3
+tags: []
+user_id: nathan-amvela-bengono

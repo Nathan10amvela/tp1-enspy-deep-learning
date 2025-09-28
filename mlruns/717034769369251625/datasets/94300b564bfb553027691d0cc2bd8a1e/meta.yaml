@@ -1,0 +1,10 @@
+digest: 53d66199
+name: dataset
+profile: '{"features_shape": [54000, 784], "features_size": 42336000, "features_nbytes":
+  169344000, "targets_shape": [54000], "targets_size": 54000, "targets_nbytes": 54000}'
+schema: '{"mlflow_tensorspec": {"features": "[{\"type\": \"tensor\", \"tensor-spec\":
+  {\"dtype\": \"float32\", \"shape\": [-1, 784]}}]", "targets": "[{\"type\": \"tensor\",
+  \"tensor-spec\": {\"dtype\": \"uint8\", \"shape\": [-1]}}]"}}'
+source: '{"tags": {"mlflow.user": "nathan-amvela-bengono", "mlflow.source.name": "/home/nathan-amvela-bengono/Documents/mon_prem_tp_dl/train_model.py",
+  "mlflow.source.type": "LOCAL", "mlflow.source.git.commit": "baa1c3b20049f49270597551a0619e1924f37a7a"}}'
+source_type: code

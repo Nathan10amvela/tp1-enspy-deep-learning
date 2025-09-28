@@ -1,0 +1,14 @@
+artifact_uri: file:///home/nathan-amvela-bengono/Documents/mon_prem_tp_dl/mlruns/595655379607562443/03b62a8b84fc481eb9135f496a1db8b7/artifacts
+end_time: 1759096808417
+entry_point_name: ''
+experiment_id: '595655379607562443'
+lifecycle_stage: active
+run_id: 03b62a8b84fc481eb9135f496a1db8b7
+run_name: Optimizer_RMSprop
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759096784140
+status: 3
+tags: []
+user_id: nathan-amvela-bengono

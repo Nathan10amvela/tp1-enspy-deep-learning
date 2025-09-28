@@ -1,0 +1,14 @@
+artifact_uri: file:///home/nathan-amvela-bengono/Documents/mon_prem_tp_dl/mlruns/717034769369251625/06328491d7054e138f69e993577ad581/artifacts
+end_time: 1759095215070
+entry_point_name: ''
+experiment_id: '717034769369251625'
+lifecycle_stage: active
+run_id: 06328491d7054e138f69e993577ad581
+run_name: Regularized_Model
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759095188915
+status: 3
+tags: []
+user_id: nathan-amvela-bengono

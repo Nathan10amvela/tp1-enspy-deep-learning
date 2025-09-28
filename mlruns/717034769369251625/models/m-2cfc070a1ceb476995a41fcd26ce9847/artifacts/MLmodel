@@ -1,0 +1,29 @@
+artifact_path: file:///home/nathan-amvela-bengono/Documents/mon_prem_tp_dl/mlruns/717034769369251625/models/m-2cfc070a1ceb476995a41fcd26ce9847/artifacts
+flavors:
+  python_function:
+    data: data
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.tensorflow
+    python_version: 3.9.23
+  tensorflow:
+    code: null
+    data: data
+    keras_version: 2.20.0
+    model_type: keras
+    save_format: tf
+is_signature_from_type_hint: false
+mlflow_version: 3.1.4
+model_id: m-2cfc070a1ceb476995a41fcd26ce9847
+model_size_bytes: 4907244
+model_uuid: m-2cfc070a1ceb476995a41fcd26ce9847
+prompts: null
+run_id: b119fcdea0f74ebaa41001dfc3b3fd34
+signature:
+  inputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float32", "shape": [-1, 784]}}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float32", "shape": [-1,
+    10]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-09-28 20:42:08.882100'

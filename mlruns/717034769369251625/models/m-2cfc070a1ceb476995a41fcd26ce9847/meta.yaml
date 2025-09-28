@@ -1,0 +1,10 @@
+artifact_location: file:///home/nathan-amvela-bengono/Documents/mon_prem_tp_dl/mlruns/717034769369251625/models/m-2cfc070a1ceb476995a41fcd26ce9847/artifacts
+creation_timestamp: 1759092117532
+experiment_id: '717034769369251625'
+last_updated_timestamp: 1759092132467
+model_id: m-2cfc070a1ceb476995a41fcd26ce9847
+model_type: null
+name: model
+source_run_id: b119fcdea0f74ebaa41001dfc3b3fd34
+status: 2
+status_message: null

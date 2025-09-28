@@ -1,0 +1,14 @@
+artifact_uri: file:///home/nathan-amvela-bengono/Documents/mon_prem_tp_dl/mlruns/595655379607562443/919d700ca7864ae98f0c3106d0343b66/artifacts
+end_time: 1759096784138
+entry_point_name: ''
+experiment_id: '595655379607562443'
+lifecycle_stage: active
+run_id: 919d700ca7864ae98f0c3106d0343b66
+run_name: Optimizer_SGD_with_momentum
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759096761018
+status: 3
+tags: []
+user_id: nathan-amvela-bengono
